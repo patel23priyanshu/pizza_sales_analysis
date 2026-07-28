@@ -92,7 +92,3 @@ The SQL queries were written and practiced by me for educational purposes and pp
 - Converting business questions into SQL solutions
 
 ---
-
-## 📄 License
-
-This repository is created for learning and educational purposes.
