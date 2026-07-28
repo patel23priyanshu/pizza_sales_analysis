@@ -1,4 +1,4 @@
--- USE DATABASE pizza_sales; "this command is supported in postgreSQL."
+-- USE DATABASE pizza_sales;
 CREATE TABLE order_details(
 	order_details_id INT PRIMARY KEY,
 	order_id INT,
